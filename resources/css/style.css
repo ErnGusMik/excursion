@@ -1,0 +1,19 @@
+html {
+  text-align: center;
+}
+body {
+  background-color: #000;
+  font-family: Verdana, sans-serif;
+}
+h1.title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+a.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+video {
+
+}
