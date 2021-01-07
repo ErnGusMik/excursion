@@ -3,15 +3,14 @@ body {
   font-family: Verdana, sans-serif;
   text-align: center;
 }
-h1.title {
+.title {
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
-a.link {
+.link {
   color: Aquamarine;
   font-size: 16px;
 }
 video {
-
 }
